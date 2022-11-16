@@ -1,2 +1,0 @@
-# cssanimation
-Animation using css
